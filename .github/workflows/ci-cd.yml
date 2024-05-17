@@ -45,5 +45,5 @@ jobs:
 
       # Deploy Docker image using Docker Compose
       - name: Deploy with Docker Compose
-        run: docker-compose up -d
+        run: docker-compose up -d 
 
